@@ -5,3 +5,4 @@ export const CrearCartahtml= (carta,divPonerCarta) =>{
   imgCarta.classList.add('carta');
   divPonerCarta.append( imgCarta );
 }
+
